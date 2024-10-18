@@ -14,10 +14,12 @@ Soy una chica que se reinventa constantemente mejorando la versión de lo que so
 
 ---
 
-## :space_invader: Habilidades  
+## :space_invader: Estudios
 
-- **Lenguajes**: Kotlin  
-- **Herramientas**: Git, IntelliJ  
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 
 ---
