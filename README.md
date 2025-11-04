@@ -51,7 +51,7 @@ Me motiva seguir aprendiendo y aplicar mis conocimientos en proyectos reales, co
 
 ##  **Contacto**  
 📧 **Email:** [sctoala@gmail.com](mailto:sctoala@gmail.com)  
-🌐 **LinkedIn:** [Scarlett][https://www.linkedin.com/in/scarletttoala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+🌐 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/scarletttoala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
