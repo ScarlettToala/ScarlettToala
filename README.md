@@ -26,6 +26,7 @@ Me motiva seguir aprendiendo y aplicar mis conocimientos en proyectos reales, co
 
 ### 🧱 **Frameworks**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### 🗄️ **Bases de datos**
