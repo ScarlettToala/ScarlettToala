@@ -16,21 +16,25 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      #  Generar el SVG
-      - name: generate pacman-contribution-graph.svg
+      # 1️⃣ Clonar repo (opcional, pero recomendado)
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2️⃣ Generar SVG
+      - name: Generate pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Crear carpeta dist y mover SVG (opcional, para mantener orden)
+      # 3️⃣ Mover SVG a dist (opcional)
       - name: Create dist folder
         run: mkdir -p dist
 
       - name: Move SVG to dist
         run: mv pacman-contribution-graph.svg dist/
 
-      # Subir a la rama output
-      - name: push pacman-contribution-graph.svg to the output branch
+      # 4️⃣ Subir a la rama output
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
