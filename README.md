@@ -1,10 +1,5 @@
 ![Pixel Art Gifs](https://github.com/user-attachments/assets/d317e3dd-073a-4ec4-8a7a-1197de3b2324)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScarlettToala/ScarlettToala/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ScarlettToala/ScarlettToala/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ScarlettToala/ScarlettToala/output/pacman-contribution-graph.svg">
-</picture>
 
 #  Scarlett Toala
 
