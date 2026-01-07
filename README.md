@@ -49,11 +49,6 @@ Me motiva seguir aprendiendo y aplicar mis conocimientos en proyectos reales, ap
 
 ---
 
-##  Proyectos destacados  
- *Actualmente trabajando en proyectos de desarrollo web que pronto estarán disponibles en mi perfil.*  
-
----
-
 ## GitHub Stats  
 
 ![Scarlett Toala's Stats](https://github-readme-stats.vercel.app/api?username=ScarlettToala&theme=algolia&show_icons=true&count_private=true)
